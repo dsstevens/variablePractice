@@ -6,3 +6,6 @@ var age = 32
 var children = 0
 var siblings = 1
 
+var awake = true
+var tired = false
+var human = true
