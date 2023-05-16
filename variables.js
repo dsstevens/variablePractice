@@ -10,9 +10,9 @@ var awake = true
 var tired = false
 var human = true
 
-var name = "Batman"
-var city = "Gotham"
-var date = "March 30 3030"
+name = "Batman"
+city = "Gotham"
+date = "March 30 3030"
 
 console.log("Coding is fun!")
 console.log("We are having a blast!")
